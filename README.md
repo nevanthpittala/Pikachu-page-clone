@@ -1,2 +1,18 @@
-# Pikachu-page-clone
-it is a clone of Pokémon page made using HTML and CSS
+# Pikachu Page Clone
+
+A Pokémon-themed landing page clone created using HTML and CSS.
+
+## Features
+- Responsive layout
+- Custom styling
+- Pokémon inspired design
+- Pure HTML and CSS project
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Author
+Nevanth sai vignesh Pittala
+
+![Original Pokemon Design](images/original-image.png)
