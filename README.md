@@ -15,4 +15,8 @@ A Pokémon-themed landing page clone created using HTML and CSS.
 ## Author
 Nevanth sai vignesh Pittala
 
+## orginal
 ![Original Pokemon Design](images/original-image.png)
+
+## My Work
+![My clone](images/project-preview.png)
